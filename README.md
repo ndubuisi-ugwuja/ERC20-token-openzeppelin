@@ -4,7 +4,9 @@
 
 A simple ERC20 token built with [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) and deployed using [Hardhat Ignition](https://hardhat.org/ignition).
 
-[Etherscan](https://sepolia.etherscan.io/token/0x5a320F02927cB6e2488caae621B14828b55B292B)
+---
+
+[View on Etherscan](https://sepolia.etherscan.io/token/0x5a320F02927cB6e2488caae621B14828b55B292B)
 
 ---
 
